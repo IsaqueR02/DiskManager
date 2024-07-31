@@ -2,6 +2,7 @@
 
 return [
 
+    Barryvdh\LaravelIdeHelper\IdeHelperServiceProvider::class,
     /*
     |--------------------------------------------------------------------------
     | Application Name
