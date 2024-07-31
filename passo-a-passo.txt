@@ -1,0 +1,3 @@
+Passo 1: Configurar o Laravel
+Instalei o Laravel
+'composer create-project --prefer-dist laravel/laravel tião-pardinho-discografia'
