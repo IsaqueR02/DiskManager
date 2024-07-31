@@ -1,8 +1,9 @@
 <?php
 
 /*Aplicando Rotas*/
-/*Classes importadas*/
 use Illuminate\Support\Facades\Route;
+
+/*Classes importadas*/
 use App\Http\Controllers\AlbumController;
 use App\Http\Controllers\FaixaController;
 
