@@ -1,3 +1,5 @@
+Aplicação do Back-end
+
 Passo 1: Configurar o Laravel
 Instalei o Laravel
 'composer create-project --prefer-dist laravel/laravel tião-pardinho-discografia'
@@ -14,3 +16,5 @@ adicionei extends nos modelos.
 
 Passo 4: Criar Controladores e Rotas
 Criei controladores para gerenciar as ações e logo defini as rotas da API
+
+Aplicação do Front-end
