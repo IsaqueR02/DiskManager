@@ -11,3 +11,6 @@ php artisan make:model Faixa -m
 Passo 3: Definir Relacionamentos
 
 adicionei extends nos modelos.
+
+Passo 4: Criar Controladores e Rotas
+Criei controladores para gerenciar as ações e logo defini as rotas da API
