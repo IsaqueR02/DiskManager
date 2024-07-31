@@ -1,3 +1,13 @@
 Passo 1: Configurar o Laravel
 Instalei o Laravel
 'composer create-project --prefer-dist laravel/laravel tião-pardinho-discografia'
+
+Passo 2: Criar Modelos e Migrações
+Criei os modelos e migrações para Álbuns e Faixas:
+
+php artisan make:model Album -m
+php artisan make:model Faixa -m
+
+Passo 3: Definir Relacionamentos
+
+adicionei extends nos modelos.

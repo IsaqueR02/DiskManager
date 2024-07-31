@@ -8,4 +8,11 @@ use Illuminate\Database\Eloquent\Model;
 class Faixa extends Model
 {
     use HasFactory;
+
+    protected $fillable = ['nome', 'album_id'];
+
+    public function album()
+    {
+        return $this->belongsTo(Album::class);
+    }
 }
